@@ -15,6 +15,7 @@ class LoginA extends StatelessWidget {
         child: Column(
           children: const [
             Text('WELCOME',style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),),
+            Text('login',style: TextStyle(fontSize: 20,fontWeight: FontWeight.bold),),
           ],
         ),
       ),
